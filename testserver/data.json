@@ -1,0 +1,77 @@
+{
+    "platos": [
+        {
+            "id": 1,
+            "name": "Pebre",
+            "lugar_origen": "Zona central",
+            "cuando_comer": "Todo el tiempo",
+            "kg": "20kcal por porción",
+            "ingredientes": "Cilantro, cebolla, tomate, ajo y ají verde picado muy fino.",
+            "url":"https://comidaschilenas.com/wp-content/uploads/2019/02/Receta-de-Pebre-Chileno.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sopaipillas",
+            "lugar_origen": "Sur de Chile",
+            "cuando_comer": "En invierno, cuando llueve",
+            "kg": "130kcal por unidad",
+            "ingredientes": "Harina de trigo, puré de zapallo (calabaza), manteca, sal y aceite para freirlas",
+            "url":"https://cocinalocal.cl/wp-content/uploads/2021/08/sopaipillas.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Milcao",
+            "lugar_origen": "Sur de Chile, epecialmente en la Isla de Chiloé",
+            "cuando_comer": "Todo el tiempo",
+            "kg": "230kcal por unidad",
+            "ingredientes": "Harina de trigo, puré de papa, manteca, sal, chicharrones (grasa de cerdo frita) y aceite para freirlas",
+            "url": "https://recetasdesopaipillas.com/wp-content/uploads/2020/06/Receta-de-milcaos-chilotes.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Machas u ostiones a la parmesana",
+            "lugar_origen": "Costas chilenas",
+            "cuando_comer": "Todo el tiempo, siempre que no hayan restricciones de pesca",
+            "kg": "61kcal por unidad",
+            "ingredientes": "Machas u ostiones en concha, queso rallado, mantequilla, vino blanco, sal, pimienta y limón ",
+            "url":"https://media-cdn.tripadvisor.com/media/photo-s/10/6b/bb/7d/machas-u-ostiones-a-la.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Locos con mayonesa",
+            "lugar_origen": "Costas chilenas",
+            "cuando_comer": "Todo el tiempo, siempre que no hayan restricciones de pesca",
+            "kg": "280kcal por unidad",
+            "ingredientes": "Locos cocidos en sal, mayonesa ",
+            "url":"https://img-global.cpcdn.com/recipes/e5dfa8b749a8db02/1200x630cq70/photo.jpg"
+        }, 
+        {
+            "id": 6,
+            "name": "Ceviche Chileno",
+            "lugar_origen": "Costas chilenas",
+            "cuando_comer": "Todo el tiempo",
+            "kg": "Entre 400 y 500kcal por plato",
+            "ingredientes": "Pescado de temporada, pimentón morrón rojo y verde, cebolla morada, cilantro, sal, pimienta y jugo de limón",
+            "url":"https://cocinachilena.cl/wp-content/uploads/2019/01/ceviche-chileno-9-scaled.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Completo Italiano",
+            "lugar_origen": "Variación del hot dog norteamericano",
+            "cuando_comer": "Todo el tiempo",
+            "kg": "548kca por unidad",
+            "ingredientes": "Pan, tomate en cubitos, palta (aguacate), vienesa, sal",
+            "url":"https://storage.googleapis.com/chile-travel-newsite-static-content/2021/08/completo-italiano.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Cazuela de Vacuno",
+            "lugar_origen": "Zona centra",
+            "cuando_comer": "Todo el tiempo",
+            "kg": "567.1kca por plato",
+            "ingredientes": "Carne (asado de tira o tapapecho), pimentón, zanahoria, papas, porotos verdes, zapallo (calabaza), arroz, choclo (maíz), ajo, sal, oregano, perejil, pimienta y una ramita de apio",
+            "url":"https://www.franciscosaavedra.cl/wp-content/uploads/2020/12/cazuela-nota.jpg"
+        }
+    ]
+}
+
